@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Pixel Runner",
+    "slug": "pixel-runner",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0a0a2e"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0a0a2e"
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
